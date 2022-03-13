@@ -1,1 +1,3 @@
-console.log("the first package to publish");
+const createSignature = (name) => `Made by ${name}`;
+
+module.exports = createSignature;
