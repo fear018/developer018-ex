@@ -15,6 +15,11 @@
     "signature",
     "example"
   ],
+  "homepage": "https://github.com/radionov018/developer018-ex#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radionov018/developer018-ex.git"
+  },
   "dependencies": {
     "lodash": "^4.17.21",
     "moment": "^2.29.1"
