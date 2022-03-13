@@ -1,6 +1,6 @@
 # developer018-ex
 
-The [developer018-ex](https://github.com/radionov018/developer018-ex) library exported as a module.
+The [developer018-ex](https://www.npmjs.com/package/developer018-ex) library exported as a module.
 
 ## Installation:
 
